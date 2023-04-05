@@ -1,0 +1,9 @@
+variable "project_id" {}
+variable "region" {}
+variable "cluster_location" {}
+variable "db_tier" {}
+variable "db_instance_name" {}
+variable "db_name" {}
+variable "db_user_name" {}
+variable "db_user_password" {}
+variable "namespace_name" {}
